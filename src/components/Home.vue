@@ -104,25 +104,23 @@ export default {
   .search {
     position: relative;
     z-index: 2;
-    width: 540px;
+    width: 520px;
     height: 40px;
-    border: 3px solid #FFFFFF;
+    border: 3px solid #6ab71d;
     margin: -30px auto 0;
     background-color: #fff;
-    border-radius: 5px;
+    border-radius: 8px;
   }
 
   .search .iconfont {
     float: left;
     margin-top: 5px;
-    margin-left: 10px;
     font-size: 30px;
     color: #999;
   }
 
   .search-txt {
     float: left;
-    margin-right: 10px;
     width: 420px;
     height: 40px;
     padding: 0 10px;
